@@ -1,15 +1,15 @@
 # Embeddings with Neo4j
 
-A study project for document chunking, local embeddings and vector similarity search with Neo4j.
+A technical implementation for document chunking, local embeddings and vector similarity search with Neo4j.
 
 ## Attribution
 
-This repository is based on course material from the Software Engineering with Applied AI program published by UNIPDS and Erick Wendel.
+This repository is based on source material from the Software Engineering with Applied AI program published by UNIPDS and Erick Wendel.
 
 Upstream material:
 https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
 
-I keep the original author metadata in the package deliberately. This repository represents my study and experimentation with the example, not original authorship of the base material.
+I keep the original author metadata in the package deliberately. This repository represents my technical implementation and experimentation with the example, not original authorship of the base material.
 
 ## What the code does
 
