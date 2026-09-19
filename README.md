@@ -4,7 +4,7 @@ A technical implementation for document chunking, local embeddings and vector si
 
 ## Attribution
 
-This repository is based on source material from the Software Engineering with Applied AI program published by UNIPDS and Erick Wendel.
+This repository is based on external source material published by UNIPDS and Erick Wendel.
 
 Upstream material:
 https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
@@ -103,4 +103,4 @@ A production implementation would still need concerns such as document identity,
 
 ## License and distribution
 
-The upstream course repository is published under CC BY-NC-ND 4.0. Its LICENSE.md states that modified or adapted versions may not be distributed under the NoDerivatives condition. This repository is therefore not presented as a permissively licensed open-source derivative. See [NOTICE.md](NOTICE.md) for the provenance and licensing note.
+The upstream source repository is published under CC BY-NC-ND 4.0. Its LICENSE.md states that modified or adapted versions may not be distributed under the NoDerivatives condition. This repository is therefore not presented as a permissively licensed open-source derivative. See [NOTICE.md](NOTICE.md) for the provenance and licensing note.
