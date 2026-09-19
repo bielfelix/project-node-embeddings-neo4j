@@ -99,3 +99,8 @@ npm run infra:down
 This project demonstrates vector ingestion and semantic similarity search. It is not presented as a complete production RAG system.
 
 A production implementation would still need concerns such as document identity, incremental indexing, access control, evaluation, retry policies, observability and lifecycle management.
+
+
+## License and distribution
+
+The upstream course repository is published under CC BY-NC-ND 4.0. Its LICENSE.md states that modified or adapted versions may not be distributed under the NoDerivatives condition. This repository is therefore not presented as a permissively licensed open-source derivative. See [NOTICE.md](NOTICE.md) for the provenance and licensing note.
