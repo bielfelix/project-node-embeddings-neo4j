@@ -9,7 +9,7 @@ This repository is based on source material from the Software Engineering with A
 Upstream material:
 https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
 
-I keep the original author metadata in the package deliberately. This repository represents my technical implementation and experimentation with the example, not original authorship of the base material.
+I keep the original author metadata in the package deliberately. This repository represents my technical implementation and evaluation of the example, not original authorship of the base material.
 
 ## What the code does
 
