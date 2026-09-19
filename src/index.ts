@@ -41,7 +41,7 @@ try {
         CONFIG.neo4j
     )
 
-    clearAll(_neo4jVectorStore, CONFIG.neo4j.nodeLabel)
+    await clearAll(_neo4jVectorStore, CONFIG.neo4j.nodeLabel)
     for (const [index, doc] of documents.entries()) {
         console.log(`✅ Adicionando documento ${index + 1}/${documents.length}`);
         await _neo4jVectorStore.addDocuments([doc])
